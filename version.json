@@ -1,8 +1,8 @@
 {
-  "versionCode": 54,
-  "versionName": "8.1.0",
-  "apkUrl": "https://github.com/tarek92gfx/THL-Beton/releases/download/THL/THL.Beton.8.1.apk",
-  "releaseNotes": "إطلاق المساعد الإداري الذكي (Gemini 3.7 Flash) للأوامر الصوتية، وتحسينات شاملة في إدارة البوانتاج والأمان.",
+  "versionCode": 55,
+  "versionName": "8.2",
+  "apkUrl": "https://github.com/tarek92gfx/THL-Beton/releases/download/THL/THL.Beton.8.2.apk",
+  "releaseNotes":"• تحسين سرعة الحسابات والترتيب\n• إصلاح استرجاع النسخ الاحتياطية",
   "isForceUpdate": false,
-  "fileSize": "19 MB"
+  "fileSize": "18.71 MB"
 }
