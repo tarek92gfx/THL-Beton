@@ -1,7 +1,7 @@
 {
-  "versionCode": 56,
-  "versionName": "8.3",
-  "apkUrl": "https://github.com/tarek92gfx/THL-Beton/releases/download/THL/THL.Beton.8.3.apk",
+  "versionCode": 57,
+  "versionName": "8.4",
+  "apkUrl": "https://github.com/tarek92gfx/THL-Beton/releases/download/THL/THL.Beton.8.4.apk",
   "releaseNotes":"• تحسين سرعة الحسابات والترتيب\n• إصلاح استرجاع النسخ الاحتياطية",
   "isForceUpdate": false,
   "fileSize": "18.71 MB"
